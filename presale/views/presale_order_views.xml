@@ -33,7 +33,6 @@
             </form>
         </field>
     </record>
-
     <record id="presale_order_view_tree" model="ir.ui.view">
         <field name="name">presale.order.tree</field>
         <field name="model">presale.order</field>
@@ -44,7 +43,6 @@
             </tree>
         </field>
     </record>
-
     <record id="presale_order_action" model="ir.actions.act_window">
         <field name="name">Orders</field>
         <field name="res_model">presale.order</field>
