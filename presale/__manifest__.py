@@ -14,8 +14,8 @@
         'product',
     ],
     'data': [
-        'security/ir.model.access.csv',
         'security/presale_security.xml',
+        'security/ir.model.access.csv',
         'data/ir_sequence_data.xml',
         'data/mail_template.xml',
         'data/ir_cron.xml',
