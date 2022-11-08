@@ -11,7 +11,9 @@
                 <div style="margin: 0px; padding: 0px;">
                     <p>Hello,</p>
                     <p>
-                        Your presale order <t t-out="object.name"></t> has been validated.
+                        Your presale order
+                        <t t-out="object.name"/>
+                        has been validated.
                     </p>
                 </div>
             </field>
